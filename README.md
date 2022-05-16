@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning SQL and R (and maybe some other letters)
 - 📫 How to reach me ... is a WIP
 
+See below for a collection of some data visualizations done for fun. 
+
+United States (US) President Elect Acceptance Speech WordCloud
+--------------------------------------------------------------
+<p align="center"><img src="https://github.com/Obitron/presidential_election_speeches/blob/main/Wordcloud_Biden.png" alt="President Biden's Speech" width="90%"></p>
+<p align="center"><img src="https://github.com/Obitron/presidential_election_speeches/blob/main/Wordcloud_Harris.png" alt="Vice President Harris' Speech" width="90%"></p>
+<p align="center"><img src="https://github.com/Obitron/presidential_election_speeches/blob/main/Wordcloud_Trump.png" alt="President Trump's Speech" width="90%"></p>
+<p align="center"><img src="https://github.com/Obitron/presidential_election_speeches/blob/main/Wordcloud_Obama.png" alt="President Obama's Speech" width="90%"></p>
+
+
 <!---
 Obitron/Obitron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
