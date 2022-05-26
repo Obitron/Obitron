@@ -12,6 +12,9 @@ United States (US) President Elect Acceptance Speech WordCloud
 <p align="center"><img src="https://github.com/Obitron/presidential_election_speeches/blob/main/Wordcloud_Trump.png" alt="President Trump's Speech" width="90%"></p>
 <p align="center"><img src="https://github.com/Obitron/presidential_election_speeches/blob/main/Wordcloud_Obama.png" alt="President Obama's Speech" width="90%"></p>
 
+Racial Incidents in the Pacific Northwest in 2019
+--------------------------------------------------------------
+<p align="center"><img src="https://github.com/Obitron/Racial_Incidents_2019/blob/main/Racial Incidents Dashboard.png" alt="Racial Incidents Dashboard Example" width="90%"></p>
 
 <!---
 Obitron/Obitron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
